@@ -3,10 +3,36 @@ li{
     float: left;
     margin-right: 20px;
     margin-left: 20px;
+    background-color: #C9969B;
 }
 .header-logo{
     float: left;
 }
 .header{
+    height: 90px;
     background-color: #C9969B;
+}
+h1{
+    height: 90px;
+    background-color: #F49DA9;
+}
+.logo1{
+    border-bottom: 5px solid #D81B66;
+    padding: 20px;
+    margin: 5px;
+}
+p{
+    background-color: #D4F1F8;
+    margin: 0px;
+padding: 0px
+}
+.logo2{
+    border-bottom: 5px solid #D81B66;
+    padding: 20px;
+    margin: 5px;
+}
+img{
+    width: 350px;
+    height: 350px;
+    float: left;
 }
